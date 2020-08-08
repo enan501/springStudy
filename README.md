@@ -38,3 +38,30 @@
 </ul>
 
 </details>
+  
+<details markdown="1">
+<summary>day1: 2020-08-08(토)</summary>
+<ul>
+    <li>진행 사항 [내용 정리](https://github.com/enan501/springStudy/wiki/Day-1)</><br>
+1. 환경 설정<br>
+2. 스프링 개요, 의존성 주입<br>
+3. 어노테이션 정리<br>
+       <blockquote>
+        1. 속도 <br>
+          - 1장, 2장을 끝내는 데 약 2시간이 걸렸다.(쉬는시간 포함) <br>
+          - 1장은 환경설정이긴 하지만 처음인 점을 감안했을 때, 앞으로도 1장에 1시간 정도 잡으면 적당할 듯 하다. <br>
+        <br>
+        2. 진행 방법 <br>
+          - 앞으로는 한 명씩 돌아가면서 그 장의 내용을 미리 어느정도 정리해 온다. <br>
+          - 나머지는 정리된 내용이 자기가 알고 있는 내용과 다르거나, 설명에 덧붙이면 좋을 것 같은 내용을 최대한 얘기해 준다. <br>
+          - 각자 진행하면서 생겼던 의문점들도 정리해온다.<br>
+      </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        5장, 6장 (스프링 MVC의 기본 구조 / Controller) 공부해오기
+      </blockquote>
+    </li>
+</ul>
+
+</details>
