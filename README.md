@@ -69,3 +69,25 @@
 </ul>
 
 </details>
+
+<details markdown="1">
+<summary>day1: 2020-08-15(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-1">자세히</a>)
+    <blockquote>
+        1. spring---DB 환경 설정<br>
+        2. MVC 기본구조<br>
+        3. MVC의 Controller<br>
+    </blockquote>
+   2. 진행 방법 논의
+       <blockquote>
+        환경설정 잘 했으니 진도 많이 나갑시다
+      </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        7장, 8 공부해오기
+      </blockquote>
+    </li>
+</ul>
