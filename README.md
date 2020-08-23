@@ -71,7 +71,7 @@
 </details>
 
 <details markdown="1">
-<summary>day1: 2020-08-15(토)</summary>
+<summary>day2: 2020-08-15(토)</summary>
 <ul>
     <li>진행 사항</><br>
     1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-2-(2020-08-15)">자세히</a>)
@@ -87,7 +87,28 @@
     </li>
     <li>숙제</>
        <blockquote>
-        7장, 8 공부해오기
+        7장, 8장, 9장, 10장, 11장 공부해오기
       </blockquote>
     </li>
 </ul>
+</details>
+
+<details markdown="1">
+<summary>day3: 2020-08-23(일)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-2-(2020-08-15)">자세히</a>)
+    <blockquote>
+        기본적인 웹 게시물 관리(chapter 7 ~ chapter 11) <br>
+        1. 스프링 MVC 프로젝트의 기본 구성<br>
+        2. business, persistence 계층의 CRUD 구현<br>
+        3. 화면 처리<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        12장, 13장 공부해오기
+      </blockquote>
+    </li>
+</ul>
+</details>
