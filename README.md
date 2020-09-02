@@ -126,7 +126,7 @@
     </li>
     <li>숙제</>
        <blockquote>
-        14장, 15장 절반(뷰 전까지) 공부해오기
+        16장, 17장 절반(javascript 전까지) 공부해오기
       </blockquote>
     </li>
 </ul>
