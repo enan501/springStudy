@@ -114,7 +114,7 @@
 </details>
 
 <details markdown="1">
-<summary>day3: 2020-08-26(수)</summary>
+<summary>day4: 2020-08-26(수)</summary>
 <ul>
     <li>진행 사항</><br>
     1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-4-(2020.08.26)">자세히</a>)
