@@ -112,3 +112,22 @@
     </li>
 </ul>
 </details>
+
+<details markdown="1">
+<summary>day3: 2020-08-26(수)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-4-(2020.08.26)">자세히</a>)
+    <blockquote>
+        Database / Mybatis와 Spring에서 페이징 처리 (chapter 12 ~ 13) <br>
+        1. Database에서의 페이징 처리<br>
+        2. Mybatis와 Spring에서의 페이징 처리<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        14장, 15장 절반(뷰 전까지) 공부해오기
+      </blockquote>
+    </li>
+</ul>
+</details>
