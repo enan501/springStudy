@@ -2,12 +2,26 @@
 ## 행복한_백발자 모임 소개
 > 참여자: `강인한, 김근욱, 최승연, 한승엽 `<br>
 > 시작일: `2020.08.03(화)` <br>
-> 모임날짜: (2020년 8월) 화, 토 <br>
+> 모임날짜: (2020년 12월 ~ ) 주 1회 (토요일) <br>
 > 목표: 
 ```
 1. Spring framework를 함께 공부합니다.
 2. 능동적인 학습을 위해 노력합니다.
-3. 더 나은 코드를 지향합니다.
+3. 클린코드를 (무조건) 지향합니다.
+4. TDD를 (무조건) 지향합니다.
+5. 프로젝트를 통해 공부한 내용을 체득합니다.
+```
+> 프로젝트:
+```
+* Spring framework와 clean code에 대해 공부한 것을 바탕으로 직접 프로젝트를 구현해 보며 체득합니다.
+  모두 같은 내용을 구현하며, 서로의 코드를 리뷰해 줍니다.
+주제: '빵 예약 어플리케이션'의 서버 만들기
+- 환경 설정: Spring(java, gradle)
+- 순서
+  1. 설계 ex. 기능 정의
+  2. 주차별 구현 계획 수립
+    - 각 기능별로 구성원이 각자 코드 생성
+    - 코드 리뷰 진행(클린코드 책에 입각하여)
 ```
 > 규칙:
 ```
@@ -165,6 +179,71 @@
     <li>숙제</>
        <blockquote>
         17.4 부터 18까지
+      </blockquote>
+    </li>
+</ul>
+</details>
+
+***
+## Season 2
+
+<details markdown="1">
+<summary>day1: 2020-11-28(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2---Day-1-(2020.11.28)">자세히</a>)
+    <blockquote>
+        깨끗한 코드 (클린 코드 1장) / 스프링 부트 <br>
+        1. 깨끗한 코드<br>
+        2. Spring vs Spring boot<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 2장
+        빵 예약 앱 DB 설계
+      </blockquote>
+    </li>
+</ul>
+</details>
+
+
+<details markdown="1">
+<summary>day2: 2020-12-05(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2---Day-2-(2020.12.05)">자세히</a>)
+    <blockquote>
+        의미있는 이름 (클린 코드 2장) / DB 구성 <br>
+        1. 의미있는 이름<br>
+        2. 빵 예약 서비스 DB 구성<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 3장
+        API 명세서 작성(간단하게)
+      </blockquote>
+    </li>
+</ul>
+</details>
+
+<details markdown="1">
+<summary>day3: 2020-12-12(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-3-(2020.12.12)">자세히</a>)
+    <blockquote>
+        함수 (클린 코드 3장) / API 명세서 작성 <br>
+        1. 함수<br>
+        2. API 명세서 작성<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 4장
+        회원가입(seller, customers) 모듈 개발 방법에 대해 고민해보기
+          ex.폴더구조, interface,imple 등등
       </blockquote>
     </li>
 </ul>
