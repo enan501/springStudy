@@ -1,18 +1,18 @@
 package com.backdev.happy.wblserver.auth.service;
 
+import com.backdev.happy.wblserver.auth.domain.dto.SigninDTO;
+import com.backdev.happy.wblserver.auth.domain.dto.SignupDTO;
+import com.backdev.happy.wblserver.auth.domain.dto.TokenDTO;
 import com.backdev.happy.wblserver.auth.domain.entity.Member;
 
-import java.util.List;
 
 public interface AuthService {
 
-    Member signin(Member member);
+    void checkDuplicated(SignupDTO signupDTO);
 
-    Member createUser(Member member);
+    void createUser(SignupDTO signupDTO);
 
-    Member findUserByUserEmail(String userEmail);
+    Member signin(SigninDTO signinDTO);
 
-    List<Member> findAll();
-
-
+    TokenDTO getToken(Member member);
 }

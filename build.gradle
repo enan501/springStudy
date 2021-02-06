@@ -15,6 +15,9 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	// lombok
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
 
 	// db connect
 	implementation 'org.mariadb.jdbc:mariadb-java-client'
@@ -22,20 +25,26 @@ dependencies {
 
 	// security
 	implementation 'org.springframework.boot:spring-boot-starter-security'
-
-	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
-	implementation 'org.springframework.boot:spring-boot-starter-web'
-
-	compileOnly 'org.projectlombok:lombok'
-	annotationProcessor 'org.projectlombok:lombok'
-
+	testImplementation 'org.springframework.security:spring-security-test'
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}
-	testImplementation 'org.springframework.security:spring-security-test'
 
 	// valid
 	implementation("org.springframework.boot:spring-boot-starter-validation")
+
+	// json
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.12.1'
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.12.1'
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.12.1'
+
+	// jwt
+	compile group: 'io.jsonwebtoken', name: 'jjwt-api', version: '0.11.2'
+	runtime group: 'io.jsonwebtoken', name: 'jjwt-impl', version: '0.11.2'
+	runtime group: 'io.jsonwebtoken', name: 'jjwt-jackson', version: '0.11.2'
+
+	// redis
+	compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-redis', version: '2.4.2'
 }
 
 test {

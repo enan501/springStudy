@@ -9,3 +9,11 @@ spring:
     hibernate:
       ddl-auto: update
     database-platform: org.hibernate.dialect.MySQL8Dialect
+  jwt:
+    secret: happybackdevwisebreadlifeseungyeongeunwookinhanseungyeop
+
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 6379
