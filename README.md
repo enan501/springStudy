@@ -271,7 +271,7 @@
 </details>
 
 <details markdown="1">
-<summary>day4: 2020-12-26(토)</summary>
+<summary>day5: 2021-01-09(토)</summary>
 <ul>
     <li>진행 사항</><br>
     1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-5-(2021.-01.-09)">자세히</a>)
