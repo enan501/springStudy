@@ -269,3 +269,24 @@
     </li>
 </ul>
 </details>
+
+<details markdown="1">
+<summary>day4: 2020-12-26(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-5-(2021.-01.-09)">자세히</a>)
+    <blockquote>
+        형식 맞추기 (클린 코드 5장) / 팀 형식 맞추기 / Spring Security <br>
+        1. 형식 맞추기(클린 코드 5장)<br>
+        2. 백발자 팀 형식 맞추기<br>
+        3. Spring Security<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 6장
+        Spring Security 예제 따라해보기
+      </blockquote>
+    </li>
+</ul>
+</details>
