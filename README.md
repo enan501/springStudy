@@ -290,3 +290,23 @@
     </li>
 </ul>
 </details>
+
+<details markdown="1">
+<summary>day6: 2021-02-06(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-6-(2021.-02.-06)">자세히</a>)
+    <blockquote>
+        
+        1. DDD 패턴 설계<br>
+        
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 8장
+        DDD 패턴으로 bakery 부분 구현
+      </blockquote>
+    </li>
+</ul>
+</details>
