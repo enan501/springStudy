@@ -297,9 +297,8 @@
     <li>진행 사항</><br>
     1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-6-(2021.-02.-06)">자세히</a>)
     <blockquote>
-        
-        1. DDD 패턴 설계<br>
-        
+        DDD패턴 <br>
+        1. DDD패턴으로 USER 부분 설계 및 구현<br>
     </blockquote>
     </li>
     <li>숙제</>
