@@ -1,0 +1,19 @@
+spring:
+  # jpa
+  datasource:
+    url: jdbc:mysql://localhost:3306/wbl?useUnicode=true&serverTimezone=UTC
+    username: wbldev
+    password: wisebackdev12
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+  jwt:
+    secret: happybackdevwisebreadlifeseungyeongeunwookinhanseungyeop
+
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 6379
