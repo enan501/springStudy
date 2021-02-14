@@ -311,7 +311,7 @@
 </details>
 
 <details markdown="1">
-<summary>day6: 2021-02-13(토)</summary>
+<summary>day7: 2021-02-13(토)</summary>
 <ul>
     <li>진행 사항</><br>
     1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-7-(2021.-02.-13)">자세히</a>)
