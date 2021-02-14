@@ -309,3 +309,23 @@
     </li>
 </ul>
 </details>
+
+<details markdown="1">
+<summary>day6: 2021-02-13(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-7-(2021.-02.-13)">자세히</a>)
+    <blockquote>
+        클린 코드 8. 경계<br>
+        Bakery Domain CRUD 구현<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 9장
+        각자 맡은 부분(RESTful, jwt, error handling, JPA) 정리  
+        bakery crud 완벽히 해오기  
+      </blockquote>
+    </li>
+</ul>
+</details>
