@@ -352,7 +352,7 @@
 <summary>day9: 2021-03-13(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-8-(2021.-03.-07)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-9-(2021.-03.-13)">자세히</a>)
     <blockquote>
         1. 클린 코드 9. 단위 테스트<br>
         2. nest.js 로 "hello world" 띄우기<br>
