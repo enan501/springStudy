@@ -347,3 +347,22 @@
     </li>
 </ul>
 </details>
+
+<details markdown="1">
+<summary>day9: 2021-03-13(토)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-8-(2021.-03.-07)">자세히</a>)
+    <blockquote>
+        1. 클린 코드 9. 단위 테스트<br>
+        2. nest.js 로 "hello world" 띄우기<br>
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 10장(단위 테스트)<br>
+        nest.js 로 회원가입 기능 만들어오기(공부할 것 : 1. 자스/타스 문법, 2. 패스포트(passport) 3. 네스트 기본 구조 및 동작 원리 (spring과의 차이점)
+      </blockquote>
+    </li>
+</ul>
+</details>
