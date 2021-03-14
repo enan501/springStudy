@@ -329,3 +329,21 @@
     </li>
 </ul>
 </details>
+
+<details markdown="1">
+<summary>day8: 2021-03-07(일)</summary>
+<ul>
+    <li>진행 사항</><br>
+    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-8-(2021.-03.-07)">자세히</a>)
+    <blockquote>
+        RESTful, jwt, error handling, JPA 에 관한 발표
+    </blockquote>
+    </li>
+    <li>숙제</>
+       <blockquote>
+        클린 코드 9장(단위 테스트)<br>
+        nest.js 로 hello world! 띄워오기
+      </blockquote>
+    </li>
+</ul>
+</details>
